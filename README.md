@@ -38,6 +38,22 @@ to further validate the data keeping the 2016 filter on, Education loan does bec
 <img width="628" height="455" alt="purpose 2016" src="https://github.com/user-attachments/assets/647b7a04-ac15-4ea6-992f-85add5a1bd86" />
 
 
+* **Following DAX Measures were used in this report:**
+1.
+<img width="658" height="42" alt="p1 dax 5" src="https://github.com/user-attachments/assets/58d59e73-f359-42ad-a302-e5b76d1cdd1d" />
+
+2.
+  <img width="841" height="94" alt="p1 dax 4" src="https://github.com/user-attachments/assets/d29ca204-4cb7-4b1c-a542-6816ecd7d8a9" />
+
+3.
+  <img width="689" height="113" alt="p1 dax 3" src="https://github.com/user-attachments/assets/3f912743-b2fa-4532-955f-ba6b8209cc07" />
+
+4.
+  <img width="731" height="22" alt="p1 dax 2" src="https://github.com/user-attachments/assets/13c9dd56-5c9a-444e-a582-bf3437ca579a" />
+
+5.
+  <img width="853" height="24" alt="p1 Dax 1" src="https://github.com/user-attachments/assets/6a044210-ea75-4a36-89af-a8d3617f9913" />
+
 
 
 
