@@ -2,11 +2,11 @@
 This Report focuses on analyzing loan default data to identify patterns, risks, and trends within a financial dataset.
 this project demonstrates end-to-end PowerBI workflows from data ingestion via SQL Server to complex DAX modeling and interactive visualization & its analysis.
 
-### 🎯 Key Objectives
+###  Key Objectives
 * **Risk Identification:** Visualize high-risk loan categories to assist in credit decision-making.
 * **Temporal Trends:** Analyze how default rates fluctuate over specific time periods (timestamps)
 
-## 🛠️ Technical Stack
+##  Technical Stack
 * **Data Source:** SQL Server Database with which BI DataFlow is connected.
 * **ETL Process:** PowerBI Service DataFlows.
 * **Dax:** Various Dax Methods applied to facilitate visuals & its analysis.  
@@ -16,12 +16,27 @@ this project demonstrates end-to-end PowerBI workflows from data ingestion via S
 * **Data Source:** BI service's Dataflow connected to SQL server database that accessess the financial dataset
 <img width="791" height="628" alt="DataSource" src="https://github.com/user-attachments/assets/ce1833a1-f6fb-451b-ac07-40b8a0c2d813" />
 
-* **Fields Names & Top rows Details:**
+* **Fields Name & Top rows Details:**
   
   <img width="279" height="391" alt="Field Names" src="https://github.com/user-attachments/assets/8be4dd66-be4b-40ba-94a6-e6eadeca53ae" />
   <img width="2389" height="824" alt="Field Details" src="https://github.com/user-attachments/assets/554a9513-c7bd-4406-904e-012f2f68e00c" />
   
-### 2. 
+### 2. Loan Default overview:
+
+* **Report:** https://app.powerbi.com/links/_80p8yG1Yx?ctid=c48b5cac-8fce-4403-83ff-18f46537aa73&pbi_source=linkShare
+<img width="1531" height="839" alt="p1 visual" src="https://github.com/user-attachments/assets/eb557912-c950-4f95-a767-59ae92b4d9c6" />
+during the year 2016 & 2014 where we see 0.25% increase in defaults
+
+
+
+Drillthrough reveals the changes in loan amount given by purpose sees a shift from 2014 to 2016 is home to education while
+
+
+
+
+
+
+
 
 The core report page provides a comprehensive look at the loan portfolio. It features time-series analysis and categorical breakdowns.
 ![Dashboard Overview](YOUR_LINK_HERE_1)
