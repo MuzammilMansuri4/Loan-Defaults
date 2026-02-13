@@ -27,9 +27,20 @@ this project demonstrates end-to-end PowerBI workflows from data ingestion via S
 <img width="1531" height="839" alt="p1 visual" src="https://github.com/user-attachments/assets/eb557912-c950-4f95-a767-59ae92b4d9c6" />
 during the year 2016 & 2014 where we see 0.25% increase in defaults
 
+ * **Drillthrough reveals the changes in loan amount given by purpose sees a shift from 2014 to 2016 is home loan to education loan being the top contributor:**
+  
+  * **2014:**<img width="1493" height="814" alt="2014 sqaure" src="https://github.com/user-attachments/assets/2bd0ddfd-0129-48d1-93d3-fd0f99953369" />
+
+  * **2016:**<img width="1495" height="817" alt="2016 sq" src="https://github.com/user-attachments/assets/463fbe00-782d-4ac3-9591-fd1006049438" />
+
+to further validate the data keeping the 2016 filter on, Education loan does become the top contributor in default as well while home loan being least likely to default in both the cases which explains the rise in default rate.
+
+<img width="628" height="455" alt="purpose 2016" src="https://github.com/user-attachments/assets/647b7a04-ac15-4ea6-992f-85add5a1bd86" />
 
 
-Drillthrough reveals the changes in loan amount given by purpose sees a shift from 2014 to 2016 is home to education while
+
+
+
 
 
 
