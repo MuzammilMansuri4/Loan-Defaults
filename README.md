@@ -58,7 +58,13 @@ to further validate the data keeping the 2016 filter on, Education loan does bec
 
 ### 2. Applicant Demographic and Financial Profile:
 
+Report: https://app.powerbi.com/groups/8c7666de-82f2-4c3c-9f5e-69b2ca6760a6/dashboards/184b2a83-430a-403b-8ee2-77a9fdbac73e?ctid=c48b5cac-8fce-4403-83ff-18f46537aa73&pbi_source=linkShare
 
+<img width="1493" height="827" alt="p2 visual" src="https://github.com/user-attachments/assets/8983cd13-4ea8-4bc7-8fce-76093af2bcc5" />
+
+Overall Demographic of the applicant and their financial Profile can be understood via this report, since default rates in education is high we can further drillthrough on type of education the loan is being taken for where following graph can be seen:
+
+<img width="342" height="268" alt="Education Type" src="https://github.com/user-attachments/assets/4597f9d0-2ace-4800-805f-0b0ad30bf0d3" />
 
 
 
