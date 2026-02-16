@@ -4,7 +4,7 @@ this project demonstrates end-to-end PowerBI workflows from data ingestion via S
 
 ###  Key Objectives
 * **Risk Identification:** Visualize high-risk loan categories to assist in credit decision-making.
-* **Temporal Trends:** Analyze how default rates fluctuate over specific time periods (timestamps)
+* **Temporal Trends:** Analyze how default rates fluctuate over specific time periods.
 
 ##  Technical Stack
 * **Data Source:** SQL Server Database with which BI DataFlow is connected.
@@ -23,7 +23,7 @@ this project demonstrates end-to-end PowerBI workflows from data ingestion via S
   
 ### 2. Loan Default overview:
 
-* **Report:** https://app.powerbi.com/links/_80p8yG1Yx?ctid=c48b5cac-8fce-4403-83ff-18f46537aa73&pbi_source=linkShare
+* **Report:** https://app.powerbi.com/groups/8c7666de-82f2-4c3c-9f5e-69b2ca6760a6/dashboards/0ce5619e-104e-4cae-a32a-6619a4dccb10?ctid=c48b5cac-8fce-4403-83ff-18f46537aa73&pbi_source=linkShare
 <img width="1531" height="839" alt="p1 visual" src="https://github.com/user-attachments/assets/eb557912-c950-4f95-a767-59ae92b4d9c6" />
 during the year 2016 & 2014 where we see 0.25% increase in defaults
 
@@ -56,7 +56,7 @@ to further validate the data keeping the 2016 filter on, Education loan does bec
 
 
 
-
+### 2. Applicant Demographic and Financial Profile:
 
 
 
