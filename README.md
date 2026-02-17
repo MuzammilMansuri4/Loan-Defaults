@@ -33,7 +33,7 @@ during the year 2016 & 2014 where we see 0.25% increase in defaults
 
   * **2016:**<img width="1495" height="817" alt="2016 sq" src="https://github.com/user-attachments/assets/463fbe00-782d-4ac3-9591-fd1006049438" />
 
-to further validate the data keeping the 2016 filter on, Education loan does become the top contributor in default as well while home loan being least likely to default in both the cases which explains the rise in default rate.
+to further validate the data keeping the 2016 filter on, Education loan does become the top contributor in default as well while home loan being least likely to default in both the cases,  since from 2016 loan distribution towards the education sector has increased the rise in default rate can be seen.
 
 <img width="628" height="455" alt="purpose 2016" src="https://github.com/user-attachments/assets/647b7a04-ac15-4ea6-992f-85add5a1bd86" />
 
